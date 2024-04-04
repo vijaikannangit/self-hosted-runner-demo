@@ -1,2 +1,2 @@
 ### GitHub-Actions - Self Hosted Runner
-Repository with GitHub Actions - self hosted runner
+Repository with GitHub Actions - self hosted
