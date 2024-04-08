@@ -21,4 +21,4 @@ jobs:
     - name: Build the Docker image
       run: docker build -t $DOCKER_USERNAME/cicd-pipeline .
     - name: Push to Dockerhub
-      run: docker push $DOCKER_USERNAME/cicd-pipeline:vij_ecr_demo
+      run: docker push $DOCKER_USERNAME/cicd-pipeline:vijconecr
